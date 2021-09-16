@@ -1,5 +1,5 @@
 # blockchain-developer-bootcamp-final-project
-//my opionion about final project
+# my opionion about final project
 
 I want to create a lendeing platform that people can lend and get money directly
 
